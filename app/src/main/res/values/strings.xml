@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bla Bla Wild</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_text">Rechercher</string>
+    <string name="textView3">Date</string>
+    <string name="textView">Départ</string>
+    <string name="textView2">Destination</string>
+    <string name="buttonGO">GO</string>
+    <string name="buttonSearch">RECHERCHER</string>
+    <string name="toast">Merci de renseigner la départ et le destination</string>
+    <string name="titre">" >> "</string>
+</resources>
