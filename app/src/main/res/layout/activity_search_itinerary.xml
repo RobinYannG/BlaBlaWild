@@ -35,7 +35,7 @@
         android:inputType="date"
         android:ems="10"
         android:layout_marginTop="20dp"
-        android:id="@+id/editText4"
+        android:id="@+id/editTextDate"
         android:layout_below="@+id/textView3"
         android:layout_alignLeft="@+id/textView3"
         android:layout_alignStart="@+id/textView3" />
@@ -80,9 +80,8 @@
         android:layout_height="wrap_content"
         android:id="@+id/buttonSearch"
         android:textAppearance="@style/TextAppearance.AppCompat"
-        android:layout_below="@+id/editText4"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginTop="12dp" />
+        android:layout_below="@+id/editTextDate"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="33dp" />
 
 </RelativeLayout>
