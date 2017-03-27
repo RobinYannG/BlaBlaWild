@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bla Bla Wild</string>
+    <string name="button3Trajet">SUBMIT A TRIP</string>
+    <string name="buttonGO">GO</string>
+    <string name="buttonPublish">PUBLISH</string>
+    <string name="buttonSearch">SEARCH</string>
+    <string name="search_text">Search</string>
+    <string name="textView">Departure</string>
+    <string name="textView2">Destination</string>
+    <string name="textView3">Date</string>
+    <string name="textView4Depart">Departure</string>
+    <string name="textView5Destination">Destination</string>
+    <string name="textView6Prix">Price</string>
+    <string name="textView7Date">Date</string>
+    <string name="textView8Heure">Hour</string>
+    <string name="titre">\" >> \"</string>
+    <string name="toast">Thank you for adding a detinatiojn and a departure</string>
+    <string name="action_settings">Settings</string>
+</resources>

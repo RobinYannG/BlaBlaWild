@@ -29,6 +29,6 @@
         android:layout_above="@+id/button2"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="44dp"
-        android:text="PROPOSER UN VOYAGE" />
+        android:text="@string/button3Trajet" />
 
 </RelativeLayout>

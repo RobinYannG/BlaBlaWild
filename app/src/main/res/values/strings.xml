@@ -7,6 +7,15 @@
     <string name="textView2">Destination</string>
     <string name="buttonGO">GO</string>
     <string name="buttonSearch">RECHERCHER</string>
-    <string name="toast">Merci de renseigner la départ et le destination</string>
+    <string name="toast">Merci de renseigner le départ et la destination</string>
     <string name="titre">" >> "</string>
+    <string name="textView4Depart">Départ</string>
+    <string name="textView5Destination">Destination</string>
+    <string name="textView6Prix">Prix</string>
+    <string name="textView7Date">Date</string>
+    <string name="textView8Heure">Heure</string>
+    <string name="buttonPublish">PUBLIER</string>
+    <string name="button3Trajet">PROPOSER UN VOYAGE</string>
+
+
 </resources>
