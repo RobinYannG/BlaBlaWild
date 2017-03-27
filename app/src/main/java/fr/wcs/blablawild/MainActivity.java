@@ -31,6 +31,15 @@ public class MainActivity extends AppCompatActivity {
         });
 
         final Button button = (Button) findViewById(R.id.button2);
+        final Button buttonProposition = (Button) findViewById(R.id.button3Trajet);
+
+        buttonProposition.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intentProposition = new Intent(MainActivity.this, SubmitItineraryActivity.class);
+                startActivity(intentProposition);
+            }
+        });
 
         button.setOnClickListener(new View.OnClickListener() {
             @Override

@@ -18,8 +18,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SearchItineraryActivity" android:label="@string/search_text" />
-        <activity android:name=".ViewSearchItineraryResultsListActivity"></activity>
+        <activity
+            android:name=".SearchItineraryActivity"
+            android:label="@string/search_text" />
+        <activity android:name=".ViewSearchItineraryResultsListActivity" />
+        <activity android:name=".SubmitItineraryActivity"></activity>
     </application>
 
 </manifest>

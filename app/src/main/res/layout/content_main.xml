@@ -22,4 +22,13 @@
         android:layout_marginBottom="54dp"
         android:id="@+id/button2" />
 
+    <Button
+        android:id="@+id/button3Trajet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="44dp"
+        android:text="PROPOSER UN VOYAGE" />
+
 </RelativeLayout>
